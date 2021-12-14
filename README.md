@@ -1,1 +1,1 @@
-A very basic local blockchain to add my learning in rusts
+A very basic local blockchain to aid my learning of rust
